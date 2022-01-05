@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">CafeApp</string>
+    <string name="all">TODO</string>
+    <string name="name">Kopi Hitam</string>
+    <string name="score">10.000</string>
+    <string name="description">Kopi hitam ternyata memiliki segudang manfaat untuk tubuh jika dikonsumsi sebagaimanana mestinya. Bermanfaat untuk kesahatan karena kopi hitam mengandung antioksidan dan nutrisi.</string>
+    <string name="form_title">CafeApp</string>
+    <string name="name_url">Image URL</string>
+    <string name="name_description">Description</string>
+    <string name="name_score">Price</string>
+    <string name="name_name">Name</string>
+    <string name="title_add">Add Menu</string>
+    <string name="title_edit">Detail Menu</string>
+    <string name="save">Save</string>
+    <string name="menu_cafe">Menu Cafe</string>
+    <string name="detail_menu">Detail Menu</string>
+    <string name="add_menu">Add Menu</string>
+    <string name="register_label">Register</string>
+    <string name="signin_label">Sign In</string>
+</resources>
